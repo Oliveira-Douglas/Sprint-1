@@ -1,0 +1,29 @@
+{
+  "name": "casos-de-uso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cria-usuario.js",
+  "directories": {
+    "test": "test"
+  },
+  "type": "module",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "sync-channel": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasOlivera/Sprint-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasOlivera/Sprint-01/issues"
+  },
+  "homepage": "https://github.com/douglasOlivera/Sprint-01#readme"
+}
